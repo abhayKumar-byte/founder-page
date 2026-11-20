@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1ua2kfq9s-me6.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/_next/static/chunks/3zt_16xndew4w.js"
+c:"/_next/static/chunks/25sfvdkd9vvfr.js"
+d:I[3265,["$2","$b","$c"],"default"]
+e:I[22016,["$2","$b","$c"],""]
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+17:"$Sreact.suspense"
+:HL["/_next/static/chunks/38iuq2un6bfal.css","style"]
+6:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$Ld",null,{}],["$","main",null,{"className":"min-h-screen bg-paper px-5 pb-24 pt-32 md:px-10","children":["$","div",null,{"className":"mx-auto max-w-[1200px]","children":[["$","h1",null,{"className":"h2","children":"Insights"}],["$","ul",null,{"className":"mt-12","children":[["$","li","sample-article-one",{"className":"border-t border-ink/20 py-7","children":["$","$Le",null,{"href":"/insights/sample-article-one","className":"group","children":[["$","p",null,{"className":"text-sm text-stone","children":["Leadership"," · ","2026-01-01"," · ","5 min"]}],["$","h2",null,{"className":"mt-2 font-serif text-3xl group-hover:text-bronze","children":"[Sample] On building for the long term"}]]}]}],["$","li","sample-article-two",{"className":"border-t border-ink/20 py-7","children":["$","$Le",null,{"href":"/insights/sample-article-two","className":"group","children":[["$","p",null,{"className":"text-sm text-stone","children":["Entrepreneurship"," · ","2026-01-02"," · ","4 min"]}],["$","h2",null,{"className":"mt-2 font-serif text-3xl group-hover:text-bronze","children":"[Sample] Lessons from early ventures"}]]}]}],["$","li","sample-article-three",{"className":"border-t border-ink/20 py-7","children":["$","$Le",null,{"href":"/insights/sample-article-three","className":"group","children":[["$","p",null,{"className":"text-sm text-stone","children":["Business"," · ","2026-01-03"," · ","3 min"]}],["$","h2",null,{"className":"mt-2 font-serif text-3xl group-hover:text-bronze","children":"[Sample] Why people come first"}]]}]}]]}]]}]}],["$","footer",null,{"className":"bg-ink px-5 py-16 text-paper md:px-10","children":[["$","div",null,{"className":"mx-auto flex max-w-[1440px] flex-col gap-10 md:flex-row md:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-serif text-4xl","children":"Richi Vij"}],["$","p",null,{"className":"mt-3 max-w-sm text-sm text-paper/60","children":"Building with purpose, for the long term."}]]}],["$","ul",null,{"className":"flex gap-6 text-sm","children":[["$","li","LinkedIn",{"children":["$","a",null,{"href":"#","className":"hover:text-bronze","children":"LinkedIn"}]}],["$","li","Instagram",{"children":["$","a",null,{"href":"#","className":"hover:text-bronze","children":"Instagram"}]}]]}]]}],["$","div",null,{"className":"mx-auto mt-12 flex max-w-[1440px] justify-between border-t border-paper/10 pt-6 text-xs text-paper/50","children":[["$","span",null,{"children":["© ",2026," Richi Vij"]}],["$","a",null,{"href":"#top","className":"hover:text-bronze","children":"Back to top"}]]}]]}]],["$Lf","$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$6"}}]]
+7:[["children",{"s":"insights","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/38iuq2un6bfal.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1ua2kfq9s-me6.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Richi Vij\",\"url\":\"https://example.com\"}"}}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Insights | Richi Vij"}],["$","meta","1",{"name":"description","content":"[PLACEHOLDER: insights archive description]"}],["$","link","2",{"rel":"canonical","href":"https://example.com"}],["$","meta","3",{"property":"og:title","content":"Insights | Richi Vij"}],["$","meta","4",{"property":"og:description","content":"[PLACEHOLDER: insights archive description]"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","7",{"name":"twitter:title","content":"Insights | Richi Vij"}],["$","meta","8",{"name":"twitter:description","content":"[PLACEHOLDER: insights archive description]"}]]}]}],null]}],null]}],"p":"$@18","v":null,"s":"$6"}},"a":"$@19","u":"$@1a","b":"_Dd5scPVo0k2Ea0m0tjBa"}
+1b:I[97367,["$2"],"OutletBoundary"]
+f:["$","script","script-0",{"src":"/_next/static/chunks/3zt_16xndew4w.js","async":true}]
+10:["$","script","script-1",{"src":"/_next/static/chunks/25sfvdkd9vvfr.js","async":true}]
+11:["$","$L1b",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+6:300
+1c:null
+1a:true
+6:C
+19:0
+8:"$undefined"
+5:"$undefined"
+18:"$undefined"
+12:"$undefined"

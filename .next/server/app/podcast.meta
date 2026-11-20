@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/podcast/layout,_N_T_/podcast/page,_N_T_/podcast"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/podcast/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/77e2971a6ab1a2d684364ad50b4c2fb43cdb8169348adc95be381ef0b085c848/$/podcast",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/podcast/page"
+    },
+    "isFallback": false
+  }
+}

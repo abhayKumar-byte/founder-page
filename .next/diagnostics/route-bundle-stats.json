@@ -1,0 +1,69 @@
+[
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 619394,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1ua2kfq9s-me6.js",
+      ".next\\static\\chunks\\3wqn8h8wcosgk.js",
+      ".next\\static\\chunks\\25sfvdkd9vvfr.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\1wnov70f88xjy.js",
+      ".next\\static\\chunks\\39_j1bdzreq0m.js",
+      ".next\\static\\chunks\\0c1ad7rcpjghx.js",
+      ".next\\static\\chunks\\turbopack-2u1d16houkiyo.js"
+    ]
+  },
+  {
+    "route": "/insights",
+    "firstLoadUncompressedJsBytes": 610454,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1ua2kfq9s-me6.js",
+      ".next\\static\\chunks\\3zt_16xndew4w.js",
+      ".next\\static\\chunks\\25sfvdkd9vvfr.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\1wnov70f88xjy.js",
+      ".next\\static\\chunks\\39_j1bdzreq0m.js",
+      ".next\\static\\chunks\\0c1ad7rcpjghx.js",
+      ".next\\static\\chunks\\turbopack-2u1d16houkiyo.js"
+    ]
+  },
+  {
+    "route": "/podcast",
+    "firstLoadUncompressedJsBytes": 607522,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1ua2kfq9s-me6.js",
+      ".next\\static\\chunks\\2urdjlstfso2t.js",
+      ".next\\static\\chunks\\25sfvdkd9vvfr.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\1wnov70f88xjy.js",
+      ".next\\static\\chunks\\39_j1bdzreq0m.js",
+      ".next\\static\\chunks\\0c1ad7rcpjghx.js",
+      ".next\\static\\chunks\\turbopack-2u1d16houkiyo.js"
+    ]
+  },
+  {
+    "route": "/insights/[slug]",
+    "firstLoadUncompressedJsBytes": 465046,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1ua2kfq9s-me6.js",
+      ".next\\static\\chunks\\3zt_16xndew4w.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\1wnov70f88xjy.js",
+      ".next\\static\\chunks\\39_j1bdzreq0m.js",
+      ".next\\static\\chunks\\0c1ad7rcpjghx.js",
+      ".next\\static\\chunks\\turbopack-2u1d16houkiyo.js"
+    ]
+  },
+  {
+    "route": "/_not-found",
+    "firstLoadUncompressedJsBytes": 457184,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1ua2kfq9s-me6.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\1wnov70f88xjy.js",
+      ".next\\static\\chunks\\39_j1bdzreq0m.js",
+      ".next\\static\\chunks\\0c1ad7rcpjghx.js",
+      ".next\\static\\chunks\\turbopack-2u1d16houkiyo.js"
+    ]
+  }
+]
